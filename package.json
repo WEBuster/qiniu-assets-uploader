@@ -1,6 +1,6 @@
 {
   "name": "qiniu-assets-uploader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "qiniu assets uploader",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
   "homepage": "https://github.com/WEBuster/qiniu-assets-uploader#readme",
   "dependencies": {
     "bluebird": "^3.4.6",
-    "qiniu": "^6.1.11"
+    "qiniu": "6.1.11"
   }
 }
