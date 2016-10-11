@@ -23,10 +23,8 @@
     "url": "https://github.com/WEBuster/qiniu-assets-uploader/issues"
   },
   "homepage": "https://github.com/WEBuster/qiniu-assets-uploader#readme",
-  "devDependencies": {
-    "qiniu": "^6.1.11"
-  },
   "dependencies": {
-    "bluebird": "^3.4.6"
+    "bluebird": "^3.4.6",
+    "qiniu": "^6.1.11"
   }
 }

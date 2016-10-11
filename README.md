@@ -43,7 +43,7 @@ uploader.upload()
 
 #### host: String
 
-对应于 [Qinu Node.js SDK](https://github.com/qiniu/nodejs-sdk) 中的 `conf.UP_HOST` ，部分存储区域可能需要配置。
+对应于 [Qiniu Node.js SDK](https://github.com/qiniu/nodejs-sdk) 中的 `conf.UP_HOST` ，部分存储区域可能需要配置。
 
 #### bucket: String
 
