@@ -67,7 +67,7 @@ uploader.upload()
 
 #### poolPrefix: String
 
-资源池前缀。
+资源池前缀。默认为 `-pool-` ，不能为空。
 
 #### computeKey: Function
 
