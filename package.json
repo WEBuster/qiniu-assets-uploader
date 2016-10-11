@@ -1,0 +1,32 @@
+{
+  "name": "qiniu-assets-uploader",
+  "version": "0.1.0",
+  "description": "qiniu assets uploader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo '42'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WEBuster/qiniu-assets-uploader.git"
+  },
+  "keywords": [
+    "qiniu",
+    "assets",
+    "static",
+    "upload",
+    "sync"
+  ],
+  "author": "MopTym <moptym@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WEBuster/qiniu-assets-uploader/issues"
+  },
+  "homepage": "https://github.com/WEBuster/qiniu-assets-uploader#readme",
+  "devDependencies": {
+    "qiniu": "^6.1.11"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6"
+  }
+}
